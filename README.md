@@ -4,7 +4,7 @@ Code enthusiast with more than 10 years of developement experience
 <br>currently working at  <b>Aspect Data Solutions</b>
 </p>
 <p align='center'>
-<a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=al100??style=for-the-badge&logo=appveyor"></a>
+
 </p>
 <p align='center'>
 <a href="https://twitter.com/momenirokh"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
