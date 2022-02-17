@@ -33,8 +33,8 @@ Code enthusiast with more than 10 years of developement experience
 <img src="https://img.shields.io/badge/openshift%20-%23e34f26.svg?&style=for-the-badge&logo=openshift&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
-<p align='right'>
 <h4>👨🏻‍💻 Some of my carrier positions...</h4>
+<p>
 <img src="https://img.shields.io/badge/ios developer-000000?&style=for-the-badge&logo=apple&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/android developer-000000?&style=for-the-badge&logo=android&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/mobile team lead-000000?&style=for-the-badge&logo=mobile&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
