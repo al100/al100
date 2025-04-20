@@ -1,7 +1,7 @@
 <h1 align='center'> Hi, I'm Ali 👋</h1>
 <p align='center'>
 Code enthusiast with more than 10 years of developement experience
-<br>currently working at  <b>Aspect Data Solutions</b>
+<br>currently working on  <b>Novatrade platform</b>
 </p>
 <p align='center'>
 
