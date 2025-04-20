@@ -28,7 +28,7 @@ Code enthusiast with more than 10 years of developement experience
 <h4>✏️ I'm currently learning...</h4>
 <p>
 <img src="https://img.shields.io/badge/python-007ACC?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/machin learing-000000?style=for-the-badge&logo=machin learing&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/machin learing-000000?style=for-the-badge&logo=machinelearing&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/kubernetes%20-007ACC?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/openshift%20-%23e34f26.svg?&style=for-the-badge&logo=openshift&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
@@ -39,5 +39,7 @@ Code enthusiast with more than 10 years of developement experience
 <img src="https://img.shields.io/badge/android developer-000000?&style=for-the-badge&logo=android&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/mobile team lead-000000?&style=for-the-badge&logo=mobile&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Technical Manager-000000?&style=for-the-badge&logo=blog&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CTO-000000?&style=for-the-badge&logo=blog&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Founder-000000?&style=for-the-badge&logo=blog&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
